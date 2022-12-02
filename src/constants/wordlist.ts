@@ -15,7 +15,6 @@ export const WORDS = [
   'swans',
   'amiss',
   'hawks',
-  'atkins',
   'baker',
   'balta',
   'banks',
