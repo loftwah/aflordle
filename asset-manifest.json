@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aflordle/static/css/main.6570e2be.css",
+    "main.js": "/aflordle/static/js/main.55b37ea2.js",
+    "static/js/787.b3f9d252.chunk.js": "/aflordle/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/aflordle/index.html",
+    "main.6570e2be.css.map": "/aflordle/static/css/main.6570e2be.css.map",
+    "main.55b37ea2.js.map": "/aflordle/static/js/main.55b37ea2.js.map",
+    "787.b3f9d252.chunk.js.map": "/aflordle/static/js/787.b3f9d252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6570e2be.css",
+    "static/js/main.55b37ea2.js"
+  ]
+}
